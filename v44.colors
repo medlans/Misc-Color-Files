@@ -1,0 +1,15 @@
+{
+  "Motion": 0x3c58ac,
+  "Looks": 0x8652d0,
+  "Sound": 0xe559a5,
+  "Pen": 0xc852b,
+  "Events": 0xffcc00,
+  "Control": 0xfba832,
+  "Sensing": 0x2795cd,
+  "Operators": 0x78b72d,
+  "Data": 0xee7316,
+  "More Blocks": 0x7c4c32,
+  "Parameter": 0x5947b1,
+  "List": 0xcc5b22,
+  "Extension": 0x4b4a60
+}
